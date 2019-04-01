@@ -1,0 +1,11 @@
+{
+  "name": "Send Mails",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "sendmail": "^1.4.1",
+    "winston": "^3.2.1"
+  },
+  "scripts": {}
+}
